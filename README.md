@@ -1,6 +1,5 @@
-Řešení maturitních otázek z roku 2020 v předmětu Programování na [GUH](https://www.guh.cz/).
+Otázky 1-12 + 19-20: Python
+Otázky 13-18*: C#
 
-1-12 + 19-20: Python
-13-18: C#
-
-(18. otázka je Forms a má 3 části: 18-1.cs, 18-2.cs a 18-3.cs)
+18. otázka je ve Forms a má 3 části: 18-Main.cs, 18-Form.cs a 18-Designer.cs.
+Projekt si vytvořte sami, následovně stáhněte tyto tři soubory
